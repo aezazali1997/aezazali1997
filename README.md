@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/aezaz_dev" style="text-align:right"><img src="https://github.com/aezazali1997/aezazali1997/blob/main/devcard.svg" width="400" alt="Aezaz Ali's Dev Card"/></a>
+<a href="https://app.daily.dev/aezaz_dev" style="margin-left:auto"><img src="https://github.com/aezazali1997/aezazali1997/blob/main/devcard.svg" width="400" alt="Aezaz Ali's Dev Card"/></a>
