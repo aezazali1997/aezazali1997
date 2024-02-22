@@ -1,6 +1,6 @@
 
 
-# Hey Welcome to my <a href="https://github.com/aezazali1997"><img src="https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" /></a> Profile
+# Hey Welcome to my <a href="https://github.com/aezazali1997"><img src="https://svgshare.com/i/13U6.svg" style="wdith:40px;height:40px;" /></a> Profile
 - ## I am a <a style="color:blue" href="https://portfolio-aezaz-ali-1997-react-app.surge.sh/"><i>Fullstack developer</i></a> currently working as a Senior MERN Stack Developer at
 
 <a href="https://bcdapps.io/" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1695127364/Github/imageedit_2_2424123363_hqtz42.png" width="150px" /></a>
