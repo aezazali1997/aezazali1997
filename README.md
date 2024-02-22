@@ -5,12 +5,14 @@
 
 <a href="https://bcdapps.io/" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1695127364/Github/imageedit_2_2424123363_hqtz42.png" width="150px" /></a>
                                                                                                                                                                                          <div> My core tech stack includes
-<a href ="https://reactjs.org/docs/getting-started.html"><img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" /> </a>
-<a href ="https://nodejs.org/en/docs/"><img src="https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" /> </a>
-<a href="https://www.mongodb.com/docs/"><img src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" /> </a>
+<a href ="https://reactjs.org/docs/getting-started.html"><img src="https://svgshare.com/i/13Tk.svg" style="wdith:40px;height:40px;" /> </a>
+<a href ="https://nodejs.org/en/docs/"><img src="https://svgshare.com/i/13Tm.svg" style="wdith:40px;height:40px; margin:0 10px;" /> </a>
+<a href="https://www.mongodb.com/docs/"><img src="https://svgshare.com/i/13Td.svg" style="wdith:40px;height:40px; margin:0 10px;" /> </a>
 <a href="www.github.com">
- <img src="https://camo.githubusercontent.com/f0acbdace9431d2a168a8a53637655735a6fd6eee112155fd7f6daac3ff47f18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465" /></a>
-     <a href="https://www.typescriptlang.org/docs/"><img src="https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" /> </a>
+ <img src="https://svgshare.com/i/13U6.svg" style="wdith:40px;height:40px; margin:0 10px;" /></a>
+     <a href="https://www.typescriptlang.org/docs/"><img src="https://svgshare.com/i/13U8.svg" style="wdith:40px;height:40px; margin:0 10px;" /> </a>
+        <a href="https://nextjs.org/docs"><img src="https://svgshare.com/i/13Ty.svg" style="wdith:40px;height:40px; margin:0 10px;" /> </a>
+        
 
   
 - ## Technologies i am comfortable with  </br>
