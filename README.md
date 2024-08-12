@@ -3,7 +3,7 @@
 # Hey Welcome to my <a href="https://github.com/aezazali1997"><img src="https://svgshare.com/i/13U6.svg" style="wdith:40px;height:40px;" /></a> Profile
 - ## I am a <a style="color:blue" href="https://portfolio-aezaz-ali-1997-react-app.surge.sh/"><i>Fullstack developer</i></a> currently working as a Senior MERN Stack Developer at
 
-<a href="https://bcdapps.io" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1723465027/Logo-Black-Large_v2jvqx.png" width="150px" /></a>
+<a href="https://bitsol.tech/" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1723465027/Logo-Black-Large_v2jvqx.png" width="150px" /></a>
                                                                                                                                                                                          <div> My core tech stack includes
 <a href ="https://reactjs.org/docs/getting-started.html"><img src="https://svgshare.com/i/13Tk.svg" style="wdith:40px;height:40px;" /> </a>
 <a href ="https://nodejs.org/en/docs/"><img src="https://svgshare.com/i/13Tm.svg" style="wdith:40px;height:40px; margin:0 10px;" /> </a>
