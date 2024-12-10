@@ -16,7 +16,7 @@
 </br >
 ✉️  You can contact me at [aezazali.pro@gmail.com](mailto:aezazali.pro@gmail.com)
 </br >
-🚀  I'm currently working on [Qatar Livings](http://www.qatarliving.com)
+🚀  I'm currently working on a project  [Zeel AI](https://www.zeelai.com/)
 
 ### Skills
 
