@@ -12,7 +12,7 @@
 
 🌍  I'm based in Rawalpindi, Pakistan
 </br>
-🖥️  See my portfolio at [Portfolio](https://portfolio-aezaz-ali-1997-react-app.surge.sh/)
+// 🖥️  See my portfolio at [Portfolio](https://portfolio-aezaz-ali-1997-react-app.surge.sh/)
 </br >
 ✉️  You can contact me at [aezazali.pro@gmail.com](mailto:aezazali.pro@gmail.com)
 </br >
