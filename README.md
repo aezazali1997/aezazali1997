@@ -13,7 +13,7 @@
 </br>
 ✉️  You can contact me at [aezazali.pro@gmail.com](mailto:aezazali.pro@gmail.com)
 </br >
-🚀  I'm currently working on a project  [Zeel AI](https://www.zeelai.com/)
+🚀  I'm currently working on a project  [Sattelite]
 
 ### Skills
 
