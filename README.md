@@ -13,7 +13,7 @@
 </br>
 ✉️  You can contact me at [aezazali.pro@gmail.com](mailto:aezazali.pro@gmail.com)
 </br >
-🚀  I'm currently working on a project  [Sattelite]
+🚀  I'm currently looking for opportunities
 
 ### Skills
 
@@ -29,12 +29,7 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aezazali1997"><img src="https://github-readme-stats.vercel.app/api?username=aezazali1997&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="aezazali1997's GitHub stats" /></a>
-
-<a href="http://www.github.com/aezazali1997"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aezazali1997&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</br>
 <div>
 <a href="https://app.daily.dev/aezaz_dev" style="margin-left:auto"><img src="https://github.com/aezazali1997/aezazali1997/blob/main/devcard.svg" width="400" alt="Aezaz Ali's Dev Card"/></a>
 </div>
