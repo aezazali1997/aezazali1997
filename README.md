@@ -1,9 +1,9 @@
 
 
 # Hey 👋 Welcome to my </a> Profile
-- ## I am a <a style="color:blue" href="https://portfolio-aezaz-ali-1997-react-app.surge.sh/"><i>Fullstack developer</i></a> currently working as a Senior MERN Stack Developer at
+- ## I am a <a style="color:blue" href="https://portfolio-aezaz-ali-1997-react-app.surge.sh/"><i>Fullstack developer</i></a> currently working as a Senior React Developer at
 
-<a href="https://bitsol.tech/" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1695127364/Github/imageedit_2_2424123363_hqtz42.png" width="150px" /></a>
+<a href="https://dt.ae/" target="_blank"> <img src="https://res.cloudinary.com/portfoliov1mushaaf/image/upload/v1785838271/logo-white_npr1fv.png" width="150px" /></a>
 
 </br>
 
