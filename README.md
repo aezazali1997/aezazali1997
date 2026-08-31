@@ -11,7 +11,6 @@
 </br>
 ✉️  You can contact me at [aezazali.pro@gmail.com](mailto:aezazali.pro@gmail.com)
 </br >
-🚀  I'm currently looking for opportunities
 
 ### Skills
 
